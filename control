@@ -1,0 +1,9 @@
+Package: co.bryce.XPCActivityRun
+Name: XPCActivityRun
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Run XPC Activities On Demand
+Maintainer: Bryce Pauken
+Author: Bryce Pauken
+Section: System
+Tag: role::hacker

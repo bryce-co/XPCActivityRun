@@ -1,0 +1,6 @@
+# Theos
+.theos
+packages
+
+# macOS
+.DS_Store
